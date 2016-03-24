@@ -1,7 +1,7 @@
 name: tinto-project
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.41750356717966497
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4375
-  lightness: 0.0690567153505981
-  saturation: 0.0872347264084965
-  rhythmicContrast: 1
+  brandStrength: 1
+  lightness: 1
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
